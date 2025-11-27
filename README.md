@@ -1,8 +1,8 @@
 <div align="center">
   <img src='./coverphoto.jpeg' style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px; margin-bottom: 30px;" />
   
-  # MD. ALIF KHAN
-  ### Full Stack Developer (MERN) | Problem Solver | Tech Enthusiast
+  # MD. SOROARDI
+  ### Full Stack Developer (MERN) 
   
   <p>
     🚀 Transforming ideas into scalable web solutions<br/>
