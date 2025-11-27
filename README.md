@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./coverphoto.jpeg' style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px; margin-bottom: 30px;" />
+  <img src='./soroar.png' style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px; margin-bottom: 30px;" />
   
   # MD. SOROARDI
   ### Full Stack Developer (MERN) 
