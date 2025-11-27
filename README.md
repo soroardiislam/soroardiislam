@@ -11,16 +11,13 @@
   </p>
 
   <div style="margin: 40px 0;">
-    <a href="https://linkedin.com/in/alifkhan2004" target="_blank" style="text-decoration: none; margin: 0 15px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/@mdalifk26277528" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <a href="https://x.com/md_soroard60725" target="_blank" style="text-decoration: none; margin: 0 15px;">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Twitter"/>
     </a>
-    <a href="https://fb.com/mdalifkhan123" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <a href="https://www.facebook.com/mdsoroardi.islam" target="_blank" style="text-decoration: none; margin: 0 15px;">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Facebook"/>
     </a>
-    <a href="mailto:mdalifk2002@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <a href="mailto:mdsoroardi9@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px;">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Email"/>
     </a>
   </div>
