@@ -71,10 +71,6 @@
 </div>
 
 
-## 📫 Let's Connect!
-- 💼 Open for freelance projects and full-time opportunities
-- 📧 Email: [mdalifk2002@gmail.com]
-- 🌐 Portfolio: [[ mdalifkhandev ](https://mdalifkhandev.vercel.app/)]
 
 <div align="center">
   <b>Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
