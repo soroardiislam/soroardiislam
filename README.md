@@ -62,6 +62,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalifkhandev&theme=radical" alt="GitHub Streak" /> -->
 </div>
 
+## <h3 align="center">📈 GitHub Activity & Contribution Graph<h3/>
+<div align="center" style="display: flex;">
+  <img height="250em" src=https://github-readme-activity-graph.vercel.app/graph?username=soroardiislam&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true%22&/>
+  <img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soroardiislam&theme=github_dark" alt="Contribution Graph" />
+</div>
+
 
 <<<<<<< HEAD
 =======
