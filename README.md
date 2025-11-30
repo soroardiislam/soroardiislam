@@ -66,7 +66,7 @@
 <div align="center" style="display: flex;">
   <img height="250em" src=https://github-readme-activity-graph.vercel.app/graph?username=soroardiislam&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true%22&/>
   <img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soroardiislam&theme=github_dark" alt="Contribution Graph" />
-</div>
+</div></br> </br>
 
 <div align="center">
   <b>Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
