@@ -68,11 +68,6 @@
   <img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soroardiislam&theme=github_dark" alt="Contribution Graph" />
 </div>
 
-
-<<<<<< HEAD
-=======
-
->>>>>>> 4abe9ab620945c1c81581991e98f94ed5bf82ae1
 <div align="center">
   <b>Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
 </div>
