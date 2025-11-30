@@ -2,7 +2,7 @@
   <img src='./soroar.png' style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px; margin-bottom: 30px;" />
   
   # MD. SOROARDI
-  ### Full Stack Developer (MERN) 
+  ## Full Stack Developer (MERN) 
   
   <p>
     🚀 Transforming ideas into scalable web solutions<br/>
